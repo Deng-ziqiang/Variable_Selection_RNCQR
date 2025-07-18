@@ -40,7 +40,6 @@ python Run_simulation.py
 ├── Model.py              # RNCQR model architecture & training algorithm
 ├── Utils.py              # Utility functions for common operations
 ├── parameters.json       # JSON configuration for all hyperparameters
-├── Run_simulation.py     # Main entry point for simulation experiments
 └── requirements.txt      # Python dependencies specification
 ```
 
