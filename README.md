@@ -24,12 +24,6 @@ pip install -r requirements.txt
 
 Recommended to use Python 3.7+ with virtualenv for environment isolation.
 
-## Quick Start
-
-Execute the main simulation script:
-```bash
-python Run_simulation.py
-```
 
 ## Project Structure
 
